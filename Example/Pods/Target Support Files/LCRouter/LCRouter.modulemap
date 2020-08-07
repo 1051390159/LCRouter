@@ -1,0 +1,6 @@
+framework module LCRouter {
+  umbrella header "LCRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}
