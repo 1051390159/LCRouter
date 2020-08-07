@@ -1,9 +1,9 @@
 {
   "name": "LCRouter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "路由组件",
   "description": "用于各个组件间的页面跳转",
-  "homepage": "https://github.com/liubin/LCRouter",
+  "homepage": "https://github.com/1051390159/LCRouter",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "liubin": "1051390159@qq.com"
   },
   "source": {
-    "git": "https://github.com/liubin/LCRouter.git",
-    "tag": "0.0.1"
+    "git": "https://github.com/1051390159/LCRouter.git",
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "8.0"

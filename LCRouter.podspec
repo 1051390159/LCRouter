@@ -8,15 +8,15 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LCRouter'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '路由组件'
   s.description      = '用于各个组件间的页面跳转'
 
-  s.homepage         = 'https://github.com/liubin/LCRouter'
+  s.homepage         = 'https://github.com/1051390159/LCRouter'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liubin' => '1051390159@qq.com' }
-  s.source           = { :git => 'https://github.com/liubin/LCRouter.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/1051390159/LCRouter.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

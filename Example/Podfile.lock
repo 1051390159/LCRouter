@@ -1,7 +1,7 @@
 PODS:
-  - LCRouter (0.0.1):
-    - LCRouter/Router (= 0.0.1)
-  - LCRouter/Router (0.0.1)
+  - LCRouter (0.0.2):
+    - LCRouter/Router (= 0.0.2)
+  - LCRouter/Router (0.0.2)
 
 DEPENDENCIES:
   - LCRouter (from `../`)
@@ -11,7 +11,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LCRouter: e9e89e65015059ca49f82d5b4520eea5f02748f8
+  LCRouter: fee4965d0cc62ea1981ecf60e6d00c4152395fd6
 
 PODFILE CHECKSUM: 4ad9075c38bb9b3da869520423670983066f9da3
 
