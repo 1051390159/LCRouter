@@ -30,7 +30,7 @@
     return tabBarCtrl;
 }
 
-- (void)9switchToTabAtIndex:(NSInteger)tabIndex {
+- (void)switchToTabAtIndex:(NSInteger)tabIndex {
     [self popToCurrentRootVC];
     dispatch_queue_t queue= dispatch_get_main_queue();
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(0.01 * NSEC_PER_SEC)), queue, ^{

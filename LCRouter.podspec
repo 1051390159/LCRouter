@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LCRouter'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = '路由组件'
   s.description      = '用于各个组件间的页面跳转'
 
